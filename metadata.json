@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "An application that uses AI to generate images from text prompts, leveraging the Gemini API for high-quality visual creation.",
+  "requestFramePermissions": []
+}
